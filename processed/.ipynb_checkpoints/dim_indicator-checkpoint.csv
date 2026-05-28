@@ -1,0 +1,87 @@
+indicator_id,indicator_name,series_code,topic,source,aggregation_method
+1,Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL,Health: Risk factors,UNAIDS estimates.,Unknown
+2,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Unknown
+3,Adults (ages 15+) living with HIV,SH.DYN.AIDS,Health: Risk factors,UNAIDS estimates.,Unknown
+4,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Unknown
+5,AIDS estimated deaths (UNAIDS estimates),SH.DYN.AIDS.DH,Health: Risk factors,UNAIDS estimates.,Unknown
+6,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+7,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+8,Children (0-14) living with HIV,SH.HIV.0014,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Unknown
+9,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Unknown
+10,Children orphaned by HIV/AIDS,SH.HIV.ORPH,Health: Risk factors,UNAIDS estimates.,Unknown
+11,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.FE.ZS,Health: Disease prevention,Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.,Unknown
+12,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.MA.ZS,Health: Disease prevention,Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.,Unknown
+13,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.FE.ZS,Health: Disease prevention,Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.,Unknown
+14,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.MA.ZS,Health: Disease prevention,Household surveys such as Demographic and Health Surveys and Multiple Indicator Cluster Surveys.  Largely compiled by UNICEF.,Unknown
+15,"Condom use at last high-risk sex, adult female (% ages 15-49)",SH.CON.AIDS.FE.ZS,Health: Disease prevention,"Demographic and Health Surveys, and UNAIDS.",Unknown
+16,"Condom use at last high-risk sex, adult male (% ages 15-49)",SH.CON.AIDS.MA.ZS,Health: Disease prevention,"Demographic and Health Surveys, and UNAIDS.",Unknown
+17,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS,Health: Disease prevention,"Demographic and Health Surveys;
+UNAIDS, Joint United Nations Programme on HIV/AIDS (UNAIDS)",Weighted average
+18,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS,Health: Disease prevention,"Demographic and Health Surveys;
+UNAIDS, Joint United Nations Programme on HIV/AIDS (UNAIDS)",Weighted average
+19,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+20,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+21,"Incidence of HIV, ages 50+ (per 1,000 uninfected population ages 50+)",SH.HIV.INCD.50.P3,Health: Risk factors,UNAIDS estimates.,Weighted average
+22,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+23,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+24,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+25,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+26,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Weighted average
+27,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,Health: Risk factors,"UNAIDS estimates, Joint United Nations Programme on HIV/AIDS (UNAIDS), uri: https://aidsinfo.unaids.org/, publisher: UNAIDS, date accessed: 2025-08-27, date published: 2025-07",Unknown
+28,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Health: Reproductive health,"World Population Prospects, United Nations (UN), publisher: UN Population Division",Weighted average
+29,"Age at first marriage, female",SP.DYN.SMAM.FE,Health: Population: Dynamics,"United Nations, Department of Economic and Social Affairs, Population Division. World Marriage Data 2019.",Unknown
+30,"Age at first marriage, male",SP.DYN.SMAM.MA,Health: Population: Dynamics,"United Nations, Department of Economic and Social Affairs, Population Division. World Marriage Data.",Unknown
+31,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Health: Reproductive health,"State of the World's Children, UN Children's Fund (UNICEF);
+Childinfo, UN Children's Fund (UNICEF);
+Demographic and Health Surveys, DHS Program (ICF)",Weighted average
+32,"Contraceptive prevalence, any method (% of all women ages 15-49)",SP.DYN.CONU.AL.ZS,Health: Reproductive health,"Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys. Largely compiled by United Nations Population Division.",Weighted average
+33,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,Health: Reproductive health,"Household surveys, United Nations (UN), note: Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys. Largely compiled by United Nations Population Division., publisher: UN Population Division",Weighted average
+34,"Contraceptive prevalence, any method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONU.SA.ZS,Health: Reproductive health,Demographic and Health Surveys,Weighted average
+35,"Contraceptive prevalence, any modern method (% of all women ages 15-49)",SP.DYN.CONM.AL.ZS,Health: Reproductive health,"Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys. Largely compiled by United Nations Population Division.",Weighted average
+36,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",SP.DYN.CONM.ZS,Health: Reproductive health,"Household surveys, United Nations (UN), note: Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys. Largely compiled by United Nations Population Division., publisher: UN Population Division",Weighted average
+37,"Contraceptive prevalence, any modern method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONM.SA.ZS,Health: Reproductive health,Demographic and Health Surveys,Weighted average
+38,Demand for family planning satisfied by any methods (% of married women with demand for family planning),SH.FPL.SATI.ZS,Health: Reproductive health,Demographic and Health Surveys.,Unknown
+39,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,Health: Reproductive health,Demographic and Health Surveys (DHS),Weighted average
+40,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Health: Reproductive health,"Trends in Maternal Mortality, World Health Organization (WHO);
+UN Children's Fund (UNICEF), note: Trends in Maternal Mortality;
+UN Population Fund (UNFPA), note: Trends in Maternal Mortality;
+World Bank Group (WBG), note: Trends in Maternal Mortality",Weighted average
+41,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Health: Reproductive health,"Trends in Maternal Mortality, World Health Organization (WHO);
+UN Children's Fund (UNICEF), note: Trends in Maternal Mortality;
+UN Population Fund (UNFPA), note: Trends in Maternal Mortality;
+World Bank Group (WBG), note: Trends in Maternal Mortality",Weighted average
+42,Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Health: Reproductive health,"World Bank, Women, Business and the Law.",Unknown
+43,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,Health: Reproductive health,"Trends in Maternal Mortality, World Health Organization (WHO), uri: https://www.who.int/news/item/23-02-2023-a-woman-dies-every-two-minutes-due-to-pregnancy-or-childbirth--un-agencies;
+UN Children's Fund (UNICEF), note: Trends in Maternal Mortality;
+UN Population Fund (UNFPA), note: Trends in Maternal Mortality;
+World Bank Group (WBG), note: Trends in Maternal Mortality",Weighted average
+44,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,Health: Reproductive health,"Maternal Mortality Estimation Inter-Agency Group (MMEIG), World Health Organization (WHO), note: The country data compiled, adjusted and used in the estimation model by the Maternal Mortality Estimation Inter-Agency Group (MMEIG). The country data were compiled from the following sources:  civil registration and vital statistics; specialized studies on maternal mortality; population based surveys and censuses; other available data sources including data from surveillance sites.;
+UN Children's Fund (UNICEF), note: Maternal Mortality Estimation Inter-Agency Group (MMEIG);
+UN Population Fund (UNFPA), note: Maternal Mortality Estimation Inter-Agency Group (MMEIG);
+World Bank Group (WBG), note: Maternal Mortality Estimation Inter-Agency Group (MMEIG);
+United Nations (UN), note: Maternal Mortality Estimation Inter-Agency Group (MMEIG);
+PAHO, note: Core Indicators Portal;
+ICF, note: The DHS Program, Demographic and Health Surveys",Unknown
+45,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,Health: Reproductive health,"World Health Organization (WHO), uri: http://www.who.int/immunization/monitoring_surveillance/en/;
+UN Children's Fund (UNICEF)",Weighted average
+46,Number of maternal deaths,SH.MMR.DTHS,Health: Reproductive health,"Trends in Maternal Mortality, World Health Organization (WHO);
+UN Children's Fund (UNICEF), note: Trends in Maternal Mortality;
+UN Population Fund (UNFPA), note: Trends in Maternal Mortality;
+World Bank Group (WBG), note: Trends in Maternal Mortality",Sum
+47,Number of weeks of maternity leave,SH.MMR.LEVE,Gender: Public life & decision making,"World Bank: Women, Business and the Law. https://wbl.worldbank.org/",Unknown
+48,Postnatal care coverage (% mothers),SH.STA.PNVC.ZS,Health: Reproductive health,Demographic and Health Surveys,Unknown
+49,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS,Health: Reproductive health,"State of the World's Children, UN Children's Fund (UNICEF);
+Childinfo, UN Children's Fund (UNICEF);
+Demographic and Health Surveys, DHS Program (ICF)",Weighted average
+50,Pregnant women receiving prenatal care of at least four visits (% of pregnant women),SH.STA.ANV4.ZS,Health: Reproductive health,"UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.",Weighted average
+51,Prevalence of syphilis (% of women attending antenatal care),SH.PRG.SYPH.ZS,Health: Risk factors,World Health Organization's Global Health Observatory Data Repository,Unknown
+52,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS,Health: Reproductive health,Demographic and Health Surveys,Weighted average
+53,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT,Health: Reproductive health,"Household surveys, United Nations (UN), note: Household surveys, including Demographic and Health Surveys and Multiple Indicator Cluster Surveys. Largely compiled by United Nations Population Division., publisher: UN Population Division",Weighted average
+54,Wanted fertility rate (births per woman),SP.DYN.WFRT,Health: Reproductive health,Demographic and Health Surveys,Weighted average
+55,Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,Gender: Agency,"UNICEF Data, UN Children's Fund (UNICEF), uri: https://sdmx.data.unicef.org/overview.html, note: Indicator code from the original source: PT_F_20-24_MRD_U15; 	Indicator name from the original source: Percentage of women (aged 20-24 years) married or in union before age 15, type: API;
+DHS API, DHS Program (ICF), uri: https://api.dhsprogram.com/#/index.html, note: Indicator code from the original source: MA_MBAG_W_B15; 	Indicator name from the original source: Women first married by exact age 15, type: API",Unknown
+56,Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,Gender: Agency,"UNICEF Data, UN Children's Fund (UNICEF), uri: https://sdmx.data.unicef.org/overview.html, note: Indicator code from the original source: PT_F_20-24_MRD_U18; 	Indicator name from the original source: Percentage of women (aged 20-24 years) married or in union before age 18, type: API;
+DHS API, DHS Program (ICF), uri: https://api.dhsprogram.com/#/index.html, note: Indicator code from the original source: MA_MBAG_W_B18; 	Indicator name from the original source: Women first married by exact age 18, type: API",Unknown
+57,,,,,
+58,Data from database: Health Nutrition and Population Statistics,,,,
+59,Last Updated: 04/29/2026,,,,
